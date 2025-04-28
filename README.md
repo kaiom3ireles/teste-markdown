@@ -36,4 +36,16 @@ Tarefas
 
 :top: :alien: :robot:
 
-
+## Tabela de valores
+Número | Descrição | Preço (R$)
+:---: | --- | ---:
+1 | *Videogame* | 4.000,00
+2 | Televisão | 2.000,00
+3 | Headset | 300,00
+***
+> [!TIP]
+> Estude
+***
+## Pensamento do dia
+> "Para um bom entendedor, meia palavra basta"  
+> Autor desconhecido
